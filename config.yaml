@@ -1,0 +1,15 @@
+baseURL: "https://cashsd.github.io/"
+languageCode: "en-us"
+title: "CashSD"
+theme: docsy
+
+params:
+  description: "cashSD is a micro freelancing site where you earn by completing tasks."
+
+
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
